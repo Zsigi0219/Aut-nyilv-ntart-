@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\Autonyilvantarto\Autonyilvantarto\bin\Debug\Autonyilvantarto.exe.config
+C:\Users\dex02\source\repos\Autonyilvantarto\Autonyilvantarto\bin\Debug\Autonyilvantarto.exe
+C:\Users\dex02\source\repos\Autonyilvantarto\Autonyilvantarto\bin\Debug\Autonyilvantarto.pdb
+C:\Users\dex02\source\repos\Autonyilvantarto\Autonyilvantarto\obj\Debug\Autonyilvantarto.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\Autonyilvantarto\Autonyilvantarto\obj\Debug\Autonyilvantarto.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\Autonyilvantarto\Autonyilvantarto\obj\Debug\Autonyilvantarto.exe
+C:\Users\dex02\source\repos\Autonyilvantarto\Autonyilvantarto\obj\Debug\Autonyilvantarto.pdb
